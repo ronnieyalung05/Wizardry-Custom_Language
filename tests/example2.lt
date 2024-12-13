@@ -1,0 +1,13 @@
+conjure mana bind 10 <~>
+
+enchant replenish(resource) {
+    lest (resource mirrors 0) {
+        resource bind resource imbue 10 <~>
+    } fallback {
+        resource bind resource deplete 10 <~>
+    }
+}
+
+conjure empty bind 0 <~>
+
+conjure spellcast bind mana forsakes empty <~>

@@ -1,0 +1,16 @@
+/=/ a comment
+
+conjure x bind 12 <~>
+
+enchant square(x) {
+    x bind x amplify x <~>
+    bestow x <~>
+}
+
+conjure y bind 1 <~>
+
+lest (x prevails 5) {
+    y bind 0 <~>
+} fallback {
+    y bind 100 <~>
+}

@@ -1,0 +1,77 @@
+VARIABLE DECLARATION OPERATOR:
+conjure
+
+ASSIGNMENT OPERATOR:
+bind
+
+ADDITION OPERATOR:
+imbue
+
+SUBTRACTION OPERATOR:
+deplete
+
+MULTIPLICATION OPERATOR:
+amplify
+
+DIVISION OPERATOR:
+split
+
+GREATER THAN:
+prevails
+
+LESS THAN:
+falters
+
+EQUAL TO:
+mirrors
+
+NOT EQUAL TO:
+forsakes
+
+LOGICAL NOT (!):
+!
+
+UNARY NEGATIVE (-):
+deplete 
+
+WHILE (while () {}):
+whilst
+
+FUNCTION CREATION (def):
+enchant
+
+RETURN (return):
+bestow
+
+TRUE:
+true
+
+FALSE:
+false
+
+NULL:
+null
+
+AND:
+withal
+
+OR:
+atwill
+
+IF:
+lest
+
+ELSE:
+fallback
+
+DELIMITER (end symbol, e.g. ;):
+<~>
+
+COMMENTS:
+/=/
+
+EXAMPLE SYNTAX RUN:
+
+conjure x bind 15 <~>
+conjure y bind "hello" <~>
+

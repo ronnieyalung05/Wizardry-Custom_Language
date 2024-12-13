@@ -1,0 +1,5 @@
+conjure spells bind 3 <~>
+
+whilst (spells falters 4) {
+    spells bind spells imbue 1 <~>
+}
